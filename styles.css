@@ -1,1 +1,68 @@
-/* Write your CSS here! */
+body {
+    background-color: black;
+    margin: 15px;
+    display: block;
+}
+article {
+    margin: 15px;
+    border: solid green;
+}
+p {
+    text-indent: 3%;
+    font: normal;
+    color: whitesmoke;
+    margin: auto;
+    padding: 20px;
+    width: auto;
+   
+}
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+.funParagraph {
+    color: green;
+}
+h2 {
+    color: green;
+    text-align: center;
+}
+footer {
+    color: whitesmoke;
+}
+#gameboy {
+    display: block;
+    border-radius: 8px;
+    padding: 5px;
+    width: 80%;
+    border: 3px solid skyblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+#ds {
+    padding: 5px;
+    width: 80%;
+    border: 3px solid seagreen;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#mario {
+    border-radius: 20px;
+    padding: 5px;
+    width: 80%;
+    border: 3px solid turquoise;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#threeds{
+    border-radius: 8px;
+    padding: 5px;
+    width: 80%;
+    border: 3px solid purple;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
